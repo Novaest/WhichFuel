@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qual Combustivel</string>
+    <string name="ethanol">etanol</string>
+    <string name="gasoline">gasolina</string>
+    <string name="option">Use %1$s, razão %2$s</string>
+    <string name="priceE">Preço Etanol</string>
+    <string name="priceG">Preço Gasolina</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhichFuel</string>
+    <string name="priceG">Price gasoline</string>
+    <string name="priceE">Price ethanol</string>
+    <string name="option">Use %1$s, ratio %2$s.</string>
+    <string name="gasoline">gasoline</string>
+    <string name="ethanol">ethanol</string>
+</resources>

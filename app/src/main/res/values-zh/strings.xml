@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhichFuel</string>
+    <string name="ethanol">哪个燃料</string>
+    <string name="gasoline">汽油</string>
+    <string name="option">使用 %1$s</string>
+    <string name="priceE">价格乙醇</string>
+    <string name="priceG">价格汽油</string>
+</resources>
